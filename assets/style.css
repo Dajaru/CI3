@@ -1,0 +1,22 @@
+
+#under{
+   
+   color: #fff;
+   padding-top: 20px;
+}
+
+.pnct a{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 20px;
+}
+
+footer {
+    background: #232323;
+    padding: 20px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
